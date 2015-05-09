@@ -1,0 +1,1 @@
+Upon deployment, one must fill out information for Twilio in sendMessage.py and for PostgreSql in run.py.
