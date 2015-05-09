@@ -1,0 +1,6 @@
+venv
+*.pyc
+checkDatabase.py
+deleteJobs.py
+setData.py
+test.py
